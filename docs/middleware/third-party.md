@@ -54,6 +54,7 @@ Most of this middleware leverages external libraries.
 
 ### Server / Adapter
 
+- [Cap'n Web RPC](https://github.com/honojs/middleware/tree/main/packages/capnweb)
 - [GraphQL Server](https://github.com/honojs/middleware/tree/main/packages/graphql-server)
 - [Node WebSocket Helper](https://github.com/honojs/middleware/tree/main/packages/node-ws)
 - [tRPC Server](https://github.com/honojs/middleware/tree/main/packages/trpc-server)
